@@ -1,0 +1,46 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: rgb(109, 97, 97);
+}
+
+h1,h2{
+    text-align: center;
+}
+
+a{
+    color: rgb(37, 248, 37);
+    padding: 20px;
+}
+
+.recipes {
+    text-align: center;
+}
+
+.recipe {
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+}
+
+.recipe a {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.recipe img {
+    width: 200px;
+    height: 150px;
+}
+
+.recipeimg{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+
+p.descr{
+    padding: 30px;
+}
